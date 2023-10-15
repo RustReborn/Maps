@@ -2,4 +2,4 @@
 Maps for the RustReborn.gg Servers.
 
 # License
-[License](LICENSE.md)
+[Click here](LICENSE.md)
