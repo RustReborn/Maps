@@ -10,7 +10,7 @@ When looking for the correct map file to manually download you can ignore the nu
 ## Example
 Say you are missing a map that starts with "RRBedwarsV5_019_Winter":
 - Look into [ManualDownload/minigames/V5_019_Winter/](ManualDownload/minigames/V5_019_Winter/) and download all the files within
-- If you only want the main map file (without Performance Mode) only download the [file](ManualDownload/minigames/RRBedwarsV5_019_Winter_1514672649.map) called "RRBedwarsV5_019_Winter_1514672649.map"
+- If you only want the main map file (without Performance Mode) only download the [file](ManualDownload/minigames/V5_019_Winter/RRBedwarsV5_019_Winter_1514672649.map) called "RRBedwarsV5_019_Winter_1514672649.map"
 - Move the files to your rust client "maps" folder
 - Done, reconnect!
 
